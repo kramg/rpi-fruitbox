@@ -2,7 +2,7 @@
 
 # Branch: 27-designate-sound-device
 
-This branch is focused on attempting to allow different sound devices to be used for music and sound effects.
+This branch is focused on attempting to allow separate sound devices to be used for music and sound effects.
 
 Raspberry Pi fruitbox
 
