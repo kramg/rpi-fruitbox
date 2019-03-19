@@ -1,4 +1,9 @@
 # rpi-fruitbox
+
+# Branch: 27-designate-sound-device
+
+This branch is focused on attempting to allow different sound devices to be used for music and sound effects.
+
 Raspberry Pi fruitbox
 
 fruitbox is a customisable MP3 player for the Raspberry Pi, allowing the user to create the look and feel of classic jukeboxes.
