@@ -1,0 +1,19 @@
+General
+
+Fruitbox uses Allegro to output both music and sound effects.  Allegro in turn uses the default sound device 
+unless told otherwise.  One of the places this can be done is in a file called allegro.cfg.  it is unclear, 
+to me at least, whether you can assign more than once sound device, and if so whether you can specify, per 
+sound, which device should be used.  You can prioritise sounds so there is some degree of configurability.
+
+Process
+
+Build a test program in stages then, if succesful, incorporate the salient bits back into fruitbox.
+
+Roadmap for the test program is as follows:
+
+  1. Create program using FB Allegro build which can output to the default audio device;
+  2. modify so that the audio device is designated at run time in the allegro configuration file;
+  3. designate two sound devices; and
+  4. switch between the two designated sound devices
+  
+Roadmap for incorporation into fruitbox TBD.
